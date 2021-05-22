@@ -20,8 +20,6 @@ Generating sentences...
 ...
 Model perplexity: 51.555
 The numbers in parentheses beside the generated sentences are the cumulative probabilities of those sentences occurring.
-  
-  
 
 Usage info:
 
